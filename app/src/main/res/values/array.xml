@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defaultValue">
+        <item>Seleziona il tipo</item>
+        <item>Ristoranti</item>
+        <item>Hotel</item>
+        <item>Attrazioni</item>
+    </string-array>
+</resources>

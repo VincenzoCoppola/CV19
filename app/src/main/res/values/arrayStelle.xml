@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defaultStelle">
+        <item>Top recensioni</item>
+        <item>1 stella</item>
+        <item>2 stelle</item>
+        <item>3 stelle</item>
+        <item>4 stelle</item>
+        <item>5 stelle</item>
+    </string-array>
+</resources>
